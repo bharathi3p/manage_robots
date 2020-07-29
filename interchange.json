@@ -1,0 +1,241 @@
+{
+  "Accent_Building_Products": {
+    "host": "ln69.endpoint.com",
+    "update": true,
+    "site": {
+      "accentbuildingproducts.com": "/home/accent/live/htdocs/accentbuildingproducts.com/robots.txt",
+      "apmbuildingmaterials.com": "/home/accent/domains/apmbuildingmaterials.com/htdocs/robots.txt",
+      "apmbuildings.com": "/home/accent/domains/apmbuildings.com/htdocs/robots.txt",
+      "skylightstore.com": "/home/accent/live/htdocs/skylightstore.com/robots.txt"
+    }
+  },
+  "Air_Delights": {
+    "host": "buddy.airdelights.com",
+    "update": true,
+    "site": {
+      "buddy.airdelights.com":"/home/interch/live/htdocs/robots.txt"
+    }
+  },
+  "Ambs_Chemical_Search": {
+    "host": "ln77.endpoint.com",
+    "update": true,
+    "site": {"ambschem.com": "/home/ambs/www/ambschem/robots.txt",
+    "reliability-engineering-jobs.com": "/home/ambs/www/rejobs/robots.txt"}
+  },
+  "American_Welding_Society": {
+    "host": "ln83.endpoint.com",
+    "update": true,
+    "site": {"app.aws.org": "/home/aws/live/htdocs/robots.txt"}
+  },
+  "ArmyGear.net": {
+    "host": "ln92.endpoint.com",
+    "update": true,
+    "site": {"armygear.net": "/home/armygear/live/htdocs/robots.txt"}
+  },
+  "Backcountry": {
+    "host": "",
+    "update": false,
+    "notes": "not hosted by us "
+  },
+  "Bike_Jazz": {
+    "host": "s11.host7.co.uk",
+    "update": true,
+    "site": {"bikes2udirect.com": "/home/bikes/live/htdocs/robots.txt"}
+  },
+  "Bluestone_Perennials": {
+    "host": "ln37.endpoint.com",
+    "update": true,
+    "site": {"bluestoneperennials.com": "/home/bluestone/live/htdocs/robots.txt"}
+  },
+  "Bronx_Synagogues": {
+    "host": "",
+    "update": false,
+    "notes": "This client is not billed."
+  },
+  "CCI_Beauty": {
+    "host": "ln23.endpoint.com",
+    "update": false,
+    "notes": "not hosted by us and old Interchange site updated as password-protected "
+  },
+  "Caseys_Page_Mill": {
+    "host": "ln97.endpoint.com",
+    "update": false,
+    "notes": "robots.txt not found"
+  },
+  "Championship_Productions": {
+    "host": "champ3.championshipproductions.com",
+    "update": true,
+    "site": {"championshipproductions.com": "/home/champ/live/htdocs/champ/robots.txt",
+    "basketballcoach.com": "/home/champ/live/htdocs/basketball/robots.txt"}
+  },
+  "CityPass": {
+    "host": "sl59.endpoint.com",
+    "update": true,
+    "site": {"citypass.com": "/home/citypass/live/htdocs/robots.txt"}
+  },
+  "Coastal_Tool": {
+    "host": "ln68.endpoint.com",
+    "update": false,
+    "notes": "On April 23, 2020, the client moved to Shopify, we are still hosting old.coastaltool.com for them."
+  },
+  "College_District": {
+    "host": "sl38.endpoint.com",
+    "update": true,
+    "site": {"collegedistrict.com": "/backup/rsync/sl38/current/home/collegedistrict/live/htdocs/collegedistrict.com/robots.txt"}
+  },
+  "Del_Mar_Embroidery_Inc_DBA_Casa_Del_Mar": {
+    "host": "ln87.endpoint.com",
+    "update": false,
+    "notes": "robots.txt not found"
+  },
+  "FrozenCPU": {
+    "host": "ln107.endpoint.com",
+    "update": true,
+    "site": {"frozencpu.com": "/home/frozencpu/live/htdocs/robots.txt",
+        "modright.com": "/home/frozencpu/live/htdocs_modright/robots.txt"}
+  },
+  "Giraphic_Prints": {
+    "host": "sl38.endpoint.com",
+    "update": true,
+    "site": {"mygiraphic.com": "/backup/rsync/sl38/current/home/collegedistrict/live/htdocs/mygiraphic.com/robots.txt",
+    "rotolosapparel.com": "/backup/rsync/sl38/current/home/collegedistrict/live/htdocs/rotolosapparel.com/robots.txt"}
+  },
+  "Hubbard_Supply": {
+    "host": "",
+    "update": false,
+    "notes": "not hosted by us "
+  },
+  "HydroPool": {
+    "host": "ln70.endpoint.com",
+    "update": true,
+    "site": {"hydropool.com": "/home/hydro/live/htdocs/robots.txt"}
+  },
+  "Lainee_Ltd": {
+    "host": "ln88.endpoint.com",
+    "update": true,
+    "site": {"laineeltd.com": "/backup/rsync/ln88/current/home/breedersedge/live/robots.txt"}
+  },
+  "Lens_Discounters": {
+    "host": "slayer3.ldvision.com",
+    "update": true,
+    "site": {"lensdiscounters.com": "/home/interch/live/htdocs/lensdiscounters.com/robots.txt"}
+  },
+  "MCM": {
+    "host": "ln86.endpoint.com",
+    "update": true,
+    "site": {"mcmb2b.com": "/home/mcm/live/htdocs/robots.txt"}
+  },
+  "MacGyver_Solutions": {
+    "host": "ln27.endpoint.com",
+    "update": true,
+    "site": {"motorcycledealer.com": "/home/mcdealer/live/htdocs/robots.txt"}
+  },
+  "Mount_Hood_Ski_Patrol": {
+    "host": "ln46.endpoint.com",
+    "update": false,
+    "notes": "redirected to troopiter.com, which is secured(login authenticated)"
+  },
+  "National_Braille_Press": {
+    "host": "ln8.endpoint.com",
+    "update": true,
+    "site": {"nbp.org": "/home/nbp/live/htdocs/robots.txt"}
+  },
+  "National_Law_Foundation": {
+    "host": "ln75.endpoint.com",
+    "update": false,
+    "notes": "robots.txt not found"
+  },
+  "Northern_Sun": {
+    "host": "ln50.endpoint.com",
+    "update": true,
+    "site": {"northernsun.com": "/home/nsun/live/htdocs/robots.txt"}
+  },
+  "Odin_Development": {
+    "host": "",
+    "update": false,
+    "notes": "not hosted by us "
+  },
+  "Paper_Source": {
+    "host": "ln121.endpoint.com",
+    "update": false,
+    "notes": "robots.txt not found"
+  },
+  "PartsGuy": {
+    "host": "ln115.endpoint.com",
+    "update": false,
+    "notes": "robots.txt not found"
+  },
+  "Penn_Herb_Company_Ltd.": {
+    "host": "ln98.endpoint.com",
+    "update": true,
+    "site": {"pennherb.com": "/home/pennherb/live/htdocs/robots.txt"}
+  },
+  "RJ_Matthews": {
+    "host": "ln51.endpoint.com",
+    "update": true,
+    "site": {"rjmatthews.com": "/home/rjm/live/htdocs/rjm/robots.txt"}
+  },
+  "Science_&_Society": {
+    "host": "",
+    "update": false,
+    "notes": "robots.txt not found"
+  },
+  "Solar_Pathfinder": {
+    "host": "ln90.endpoint.com",
+    "update": false,
+    "notes": "robots.txt not found"
+  },
+  "Stanley_Lisica": {
+    "host": "ln60.endpoint.com",
+    "update": true,
+    "site": {"stanleylisica.com": "/home/stanley/htdocs/robots.txt"}
+  },
+  "Terry_K_Products": {
+    "host": "ln78.endpoint.com",
+    "update": false,
+    "notes": "robots.txt not found"
+  },
+  "The_Landlord_Protection_Agency": {
+    "host": "ln104.endpoint.com",
+    "update": true,
+    "site": {"thelpa.com": "/home/thelpa/live/htdocs/robots.txt"}
+  },
+  "Toner_Store": {
+    "host": "ln89.endpoint.com",
+    "update": true,
+    "site": {"tonerstore.com": "/home/toner/live/htdocs/toner/robots.txt",
+    "outoftoner.com": "/home/toner/live/htdocs/outoftoner/robots.txt",
+    "nationaltoner.com": "/home/toner/live/htdocs/nt/robots.txt",
+    "imagingink.com":"/home/toner/live/htdocs/imaging/robots.txt"}
+  },
+  "USDA": {
+    "host": "",
+    "update": false,
+    "notes": "robots.txt not found"
+  },
+  "UltimatePassage": {
+    "host": "ln55.endpoint.com",
+    "update": true,
+    "site": {"ultimatepassage.com": "/home/ultimatepassage/htdocs/robots.txt"}
+  },
+  "Vervante": {
+    "host": "ln57.endpoint.com",
+    "update": true,
+    "site": {"store.vervante.com":"/home/vervante/live/htdocs/robots.txt"}
+  },
+  "Victor_Machinery_Exchange": {
+    "host": "ln71.endpoint.com",
+    "update": true,
+    "site": {"victornet.com": "/home/victor/live/htdocs/robots.txt"}
+  },
+  "Waste_Not_Paper": {
+    "host": "ln93.endpoint.com",
+    "update": true,
+    "site": {"wastenotpaper.com": "/home/wastenot/htdocs/robots.txt"}
+  },
+  "World_of_Powersports": {
+    "host": "ln27.endpoint.com",
+    "update": true,
+    "site": {"parts.worldofpowersports.com": "/home/wop/live/htdocs/robots.txt"}
+  }
+}

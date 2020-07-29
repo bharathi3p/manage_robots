@@ -1,0 +1,30 @@
+{
+  "Accent_Building_Products": {
+    "host": "ln1",
+    "update": true,
+    "site": {
+      "accentbuildingproducts.com": "/Users/bharathi/robots.txt",
+      "apmbuildingmaterials.com": "/Users/bharathi/robots.txt",
+      "apmbuildings.com": "/Users/bharathi/robots.txt",
+      "skylightstore.com": "/Users/bharathi/robots.txt"
+    }
+  },
+  "Air_Delights": {
+    "host": "ln2",
+    "update": true,
+    "site": {
+      "buddy.airdelights.com":"/Users/bharathi/robots.txt"
+    }
+  },
+  "Ambs_Chemical_Search": {
+    "host": "ln3",
+    "update": true,
+    "site": {"ambschem.com": "/Users/bharathi/robots.txt",
+    "reliability-engineering-jobs.com": "/Users/bharathi/robots.txt"}
+  },
+  "American_Welding_Society": {
+    "host": "ln4",
+    "update": true,
+    "site": {"app.aws.org": "/Users/bharathi/robots.txt"}
+  }
+}

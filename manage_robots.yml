@@ -1,0 +1,21 @@
+- name: Configure the robots.txt file on '{{ host }}'
+  hosts: '{{ host }}'
+#  hosts: ln1
+  tasks:
+    - debug: msg="Host Name {{host}} and the path is {{path}}"
+
+    - name: Insert a line at the end of a file.
+      blockinfile:
+        path: '{{ path }}'
+        block: |
+          User-Agent: Applebot
+          Disallow: /
+
+          User-Agent: MegaIndex
+          Disallow: /
+
+
+
+  gather_facts: no
+
+
