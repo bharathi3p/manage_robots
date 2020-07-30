@@ -16,7 +16,7 @@ blockinfile:
 
 ```
 
-Run deploy_robots.sh script to deploy the change to all the servers
+Run `deploy_robots.sh` script to deploy the change to all the servers
 
 #This module will insert/update/remove a block of multi-line text surrounded by customizable marker lines
 
