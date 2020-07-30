@@ -9,12 +9,12 @@ for CLIENT in $(jq ". | keys | .[]" $file); do
       host=$(jq -r ".[$CLIENT].host" $file);
       sites=$(jq -r ".[$CLIENT].site" $file);
       for path in $(jq -r ".[$CLIENT].site | values | .[]" $file); do
-        ansible-playbook manage_robots.yml -i server.ini --extra-vars '{"host":'"$host"',"path":'"$path"'}'
+        ansible-playbook manage_robots.yml -i server.yaml --extra-vars '{"host":'"$host"',"path":'"$path"'}'
       done
     fi
 done
 
-#ansible-playbook manage_robots.yml -i server.ini --extra-vars '{"host":"ln1","path":"test"}'
+#ansible-playbook manage_robots.yml -i server.yaml --extra-vars '{"host":"ln1","path":"test"}'
 
 #----------------------------------------------------
 ## BEGIN ANSIBLE MANAGED BLOCK
